@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋 Hello, I'm Tamara!
 
-<!--
-**tamaraakguneyli/tamaraakguneyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Transitioning into software engineering with an operations background.
+- 💡 Enthusiastic about tackling challenges and crafting user-centric solutions.
 
-Here are some ideas to get you started:
+### 🌟 Currently Pursuing:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering Diploma at BrainStation, focusing on frontend and backend development using modern technologies like HTML, CSS, JavaScript, React, Node.js, and database management.
+
+Excited to deepen my skills in software development and create impactful applications!
+
+### 🚀 Recent Project:
+
+- 🎬 Developed  ["PICK A FLICK"](https://github.com/tamaraakguneyli/pick-a-flick) a movie and series recommendation platform simplifying content discovery across streaming services. It's been a rewarding project to bring to life!
+
+
+### 🖥️ Passionate About:
+
+- 🌟 Learning and contributing to innovative solutions in the software engineering space!

@@ -18,7 +18,11 @@ Excited to deepen my skills in software development and create impactful applica
 
 - 🌟 Learning and contributing to innovative solutions in the software engineering space!
 
-<h3>Languages and Tools:</h3>
+### 🌐 LinkedIn Profile: 
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" target="_blank" height="25" />](https://www.linkedin.com/in/tamaraakguneyli/) 
+
+### 👩‍💻 Languages and Tools:
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>

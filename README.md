@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Tamara!
 
-- 🌱 Transitioning into software engineering with an operations background.
+- 🌱 Transitioned into software engineering with an operations background.
 - 💡 Enthusiastic about tackling challenges and crafting user-centric solutions.
 
 ### 🌟 Currently Pursuing:

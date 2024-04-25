@@ -3,9 +3,9 @@
 - 🌱 Transitioned into software engineering with an operations background.
 - 💡 Enthusiastic about tackling challenges and crafting user-centric solutions.
 
-### 🌟 Currently Pursuing:
+### 🌟 Recently Completed:
 
-- 🎓 Software Engineering Diploma at BrainStation, focusing on frontend and backend development using modern technologies like HTML, CSS, JavaScript, React, Node.js, and database management.
+- 🎓 Software Engineering Diploma at BrainStation, with a focus on frontend and backend development using modern technologies such as HTML, CSS, JavaScript, React, Node.js, and database management.
 
 Excited to deepen my skills in software development and create impactful applications!
 
